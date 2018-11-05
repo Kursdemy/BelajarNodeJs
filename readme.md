@@ -7,4 +7,5 @@
     <li>Node Js - Basic Web App</li>
     <li>Node Js - Basic Web App 2</li>
     <li>Node Js - MongoDB & Mongoose 1</li>
+    <li>Node Js - MongoDb & Mongoose 2</li>
 </ol>
