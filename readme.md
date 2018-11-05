@@ -6,4 +6,5 @@
     <li>Node Js - Basic HTTP</li>
     <li>Node Js - Basic Web App</li>
     <li>Node Js - Basic Web App 2</li>
+    <li>Node Js - MongoDB & Mongoose 1</li>
 </ol>
