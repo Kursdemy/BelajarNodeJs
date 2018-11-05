@@ -9,4 +9,5 @@
     <li>Node Js - MongoDB & Mongoose 1</li>
     <li>Node Js - MongoDB & Mongoose 2</li>
     <li>Node JS - MongoDB & Mongoose 3</li>
+    <li>Template Engine part 1</li>
 </ol>
