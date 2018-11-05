@@ -12,4 +12,5 @@
     <li>Template Engine part 1</li>
     <li>Template Engine part 2</li>
     <li>Cookie & Session</li>
+    <li>Passport & Login part 1</li>
 </ol>
